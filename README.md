@@ -6,6 +6,7 @@ This repository contains my project work in Microsoft Excel.
 Human resource management is the process of employing people, training them, compensating them, developing policies relating to the workplace, and developing strategies to retain employees.
 
 **Objective**
+
 An Company wants to design a HR Management dashboard to analyze the total emloyees,salaries based on various regions. The company wants to full time and pat time employee's record and their participation.
 
 **Dataset Description**
@@ -15,7 +16,7 @@ We will be using HR-Managemebt-Dashboard.xlsx Dataset attached.
 Within this file you will find the following fields:
 ![Screenshot 2022-08-13 at 10 53 49 PM](https://user-images.githubusercontent.com/107293486/184504225-e906aef2-c15f-41fc-9dce-2bff743cfad4.png)
 
-** Analysis Tasks **
+**Analysis Tasks**
 
  Create a chart to analyze total active employees in company.
  
