@@ -1,14 +1,14 @@
 # HR-Management-Dashboard
 This repository contains my project work in Microsoft Excel.
 
-** About HR Management**
+**About HR Management**
 
 Human resource management is the process of employing people, training them, compensating them, developing policies relating to the workplace, and developing strategies to retain employees.
 
-** Objective**
+**Objective**
 An Company wants to design a HR Management dashboard to analyze the total emloyees,salaries based on various regions. The company wants to full time and pat time employee's record and their participation.
 
-** Dataset Description**
+**Dataset Description**
 
 We will be using HR-Managemebt-Dashboard.xlsx Dataset attached.
 
@@ -35,7 +35,7 @@ Within this file you will find the following fields:
  
  ![Screenshot 2022-08-13 at 11 01 22 PM](https://user-images.githubusercontent.com/107293486/184504476-e834c24e-a77c-40b2-bdc0-8598309cc93c.png)
 
-** Prerequisites** : Basic Knowledge of Pivot Tables,Basic VBA,Charts and formatting in Excel
+**Prerequisites** : Basic Knowledge of Pivot Tables,Basic VBA,Charts and formatting in Excel
 
 **HR Dashboard** : I have utilized following items in building sales dashboard which analyzes data by different aspects.
 
