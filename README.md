@@ -7,7 +7,7 @@ Human resource management is the process of employing people, training them, com
 
 **Objective**
 
-An Company wants to design a HR Management dashboard to analyze the total emloyees,salaries based on various regions. The company wants to full time and pat time employee's record and their participation.
+A Company wants to design a HR Management dashboard to analyze the total emloyees,salaries based on various regions. The company wants to full time and pat time employee's record and their participation.
 
 **Dataset Description**
 
