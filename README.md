@@ -14,6 +14,7 @@ A Company wants to design a HR Management dashboard to analyze the total emloyee
 We will be using HR-Managemebt-Dashboard.xlsx Dataset attached.
 
 Within this file you will find the following fields:
+
 ![Screenshot 2022-08-13 at 10 53 49 PM](https://user-images.githubusercontent.com/107293486/184504225-e906aef2-c15f-41fc-9dce-2bff743cfad4.png)
 
 **Analysis Tasks**
